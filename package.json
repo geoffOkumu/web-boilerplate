@@ -1,14 +1,14 @@
 {
   "name": "web-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack boilerplate for a web project with postcss, sass and es6 suport",
   "main": "index.js",
   "scripts": {
     "build": "webpack — mode production",
     "dev": "webpack — mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "GeoffOkumu",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^8.2.0",

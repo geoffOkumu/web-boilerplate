@@ -1,4 +1,4 @@
 /**
  * Main entry file
  */
-import './style.css';
+import './style.scss';
